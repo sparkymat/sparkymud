@@ -4,3 +4,15 @@ github.com/BurntSushi/toml
 github.com/kr/pretty
 # github.com/kr/text v0.1.0
 github.com/kr/text
+# github.com/mattn/go-runewidth v0.0.4
+github.com/mattn/go-runewidth
+# github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
+github.com/nfnt/resize
+# github.com/nsf/termbox-go v0.0.0-20190121233118-02980233997d
+github.com/nsf/termbox-go
+# github.com/sparkymat/goasciiart v0.0.0-20171224235536-70781483f7d7
+github.com/sparkymat/goasciiart
+# github.com/sparkymat/grip v0.0.0-20190313211608-13be359f25a8
+github.com/sparkymat/grip
+github.com/sparkymat/grip/event
+github.com/sparkymat/grip/size
